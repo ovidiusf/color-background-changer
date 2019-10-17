@@ -6,3 +6,5 @@
 > 3 colors for gradients;
 
 > display the value of the 3 colors;
+
+> exercise project;
